@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Привет!+Я Kybik)](https://git.io/typing-svg)
+<div align="center">
+  <h1>Привет, Меня зовут Гриша или просто Kybik 👋  
+  </h1>
 
 
   <h3>Я пишу ботов для приложения Discord на языке Pyhon</h3>
