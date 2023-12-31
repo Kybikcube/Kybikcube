@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Привет, Я Гриша или Kybik 👋  
-  </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Привет!+Я Kybik)](https://git.io/typing-svg)
+
 
   <h3>Я пишу ботов для приложения Discord на языке Pyhon</h3>
 </div>
