@@ -41,15 +41,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
-<div align="center">
-  <h2>Моя GitHub статистика:</h2>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube35&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagai35&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kybikcube35&theme=tokyonight&show_icons=true&title_color=gruvbox)  
-
-</div>
 <div align="center" width="100px">
   <h1>You Are Visitor Number:</h1>
 
