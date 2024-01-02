@@ -39,9 +39,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## You Are Visitor Number
-
-![Koibito](https://koibito.qweme.dev/@Kybikcube?scale=2&theme=rule34&length=6)
-
 
 
