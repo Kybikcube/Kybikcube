@@ -7,20 +7,7 @@
              Age - 13.
              Birthday - December 1st.
              Languages - Russian and English.
-             Job - SubDev on the cool hosting Baget-inc.
              Bot - </blank>.
-
-## About Baget-inc
-             This is a cool hosting for minecraft and bots in discord.
-             There: 
-             1) Responsive administration!
-             2) Fast service!
-             3) Good community!
-             4) This is a very stable hosting! 
-             5) We respect customers very much!
-             I advise you to go to the discord server and buy hosting there!
-
-[DS Hosting Server!](https://discord.gg/cq68fVcdkH)
 
 
 ## Programming languages
