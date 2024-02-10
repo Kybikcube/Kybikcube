@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Grisha+or+Kybik!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Kybik!)](https://git.io/typing-svg)
 
 ### I am writing bots for the Discord application in Python.
 
 ## About me
-             Name - Grigorii Troshkin or just Kybik 
+             Name - Kybik 
              Age - 13.
              Birthday - December 1st.
              Languages - Russian and English.
