@@ -7,7 +7,6 @@
              Age - 13.
              Birthday - December 1st.
              Languages - Russian and English.
-             Bot - </blank>.
 
 
 ## Programming languages
