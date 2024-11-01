@@ -15,7 +15,6 @@
 ## Which bible libraries do I use
              Python - I know the Bible libraries:
              Disnake is For writing bots on the Discord platform,
-             Sqlite3 is For databases (I don't know until the end).
 
 ## The operating system
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
