@@ -1,33 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Hi!+My+name+is+Kybik!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Привет!+Меня+зовут+Григорий!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=1+project+per+week)](https://git.io/typing-svg)
-
-### I am writing bots for the Discord application in Python.
-
-## About me
-             Name - Kybik 
-             Age - 13.
-             Birthday - December 1st.
-             Languages - Russian and English.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=1+проект+в+неделю)](https://git.io/typing-svg)
 
 
-## Programming languages
-  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+### Обо мне:
 
-## Which bible libraries do I use
-             Python - I know the Bible libraries:
-             Disnake is For writing bots on the Discord platform,
+- Имя: Григорий
+- Возраст: 13
+- День Рождения: 1 Декабря
+- Языки: Русский и Английский
 
-## The operating system
-  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+---
 
-## My statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kybikcube&theme=tokyonight&show_icons=true&title_color=gruvbox)
+### Технологии и инструменты:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,cloudflare,css,discord,bots,flask,git,github,gmail,html,js,linux,mysql,nodejs,npm,ps,py,sqlite,stackoverflow,ubuntu,vscode,windows,&perline=10" />
+  </a>
+</p>
 
-## Presence
+<p align="center">⭐ Наибольшее внимание уделяю Python. ⭐</p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/939055674615287838)](https://discord.com/users/939055674615287838)
+---
+
+### Моя статистика
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kybikcube&theme=vision-friendly-dark" alt="Kybikcube's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kybikcube&show_icons=true&theme=vision-friendly-dark" alt="Kybikcube's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</p>
+
+##№ Статус
+
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/939055674615287838" alt="Discord Presence" />
+</p>
 
 
