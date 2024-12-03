@@ -25,15 +25,15 @@
 ### Моя статистика:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kybikcube&theme=bear" alt="Kybikcube's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kybikcube&theme=material-palenight" alt="Kybikcube's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kybikcube&show_icons=true&theme=bear" alt="Kybikcube's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kybikcube&show_icons=true&theme=material-palenight" alt="Kybikcube's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube&layout=compact&theme=bear" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube&layout=compact&theme=material-palenight" alt="Top Langs" />
 </p>
 
 ### Статус:
