@@ -25,11 +25,15 @@
 ### Моя статистика:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kybikcube&show_icons=true&theme=nord" alt="Kybikcube's GitHub stats" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shzanya&count_private=true&theme=material-palenight" alt="vo0ov's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube&layout=compact&theme=nord" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kybikcube&show_icons=true&theme=material-palenight" alt="Kybikcube's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube&layout=compact&theme=material-palenight" alt="Top Langs" />
 </p>
 
 ### Статус:
