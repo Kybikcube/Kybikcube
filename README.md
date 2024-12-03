@@ -25,10 +25,6 @@
 ### Моя статистика:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kybikcube&theme=nord" alt="Kybikcube's Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kybikcube&show_icons=true&theme=nord" alt="Kybikcube's GitHub stats" />
 </p>
 
