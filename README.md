@@ -12,7 +12,7 @@
 
 ---
 
-### Технологии и инструменты:
+### Что я использую:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
 
 ---
 
-### Моя статистика:
+### Статистика:
 
 <p align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shzanya&count_private=true&theme=material-palenight" alt="vo0ov's Streak" />
