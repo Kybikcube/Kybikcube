@@ -1,6 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=Привет!+Меня+зовут+Григорий!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=Привет!+Меня+зовут+Григорий!" alt="Привет! Меня зовут Григорий!" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=1+проект+в+неделю)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=1+проект+в+неделю" alt="Привет! Меня зовут Григорий!" />
+</p>
 
 
 ### Обо мне:
@@ -25,7 +29,7 @@
 ### Статистика:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shzanya&count_private=true&theme=material-palenight" alt="vo0ov's Streak" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shzanya&count_private=true&theme=material-palenight" alt="Kybikcube's Streak" />
 </p>
 
 <p align="center">
