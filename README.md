@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=Привет!+Меня+зовут+Григорий!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=Привет!+Меня+зовут+Григорий!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%e292ee&lines=1+проект+в+неделю)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=1+проект+в+неделю)](https://git.io/typing-svg)
 
 
 ### Обо мне:
