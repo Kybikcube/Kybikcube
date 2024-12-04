@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=Привет!+Меня+зовут+Григорий!" alt="Привет! Меня зовут Григорий!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=Привет!+Меня+зовут+Григорий!&size=40" alt="Привет! Меня зовут Григорий!" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=1+проект+в+неделю" alt="Привет! Меня зовут Григорий!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=1+проект+в+неделю&size=40" alt="Привет! Меня зовут Григорий!" />
 </p>
 
 
