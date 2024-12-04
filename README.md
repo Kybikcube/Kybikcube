@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cloudflare,css,discord,bots,flask,git,github,gmail,html,js,linux,mysql,nodejs,npm,ps,py,sqlite,stackoverflow,ubuntu,vscode,windows,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=bash,cloudflare,css,discord,bots,flask,git,github,gmail,html,js,linux,mysql,nodejs,npm,ps,py,sqlite,stackoverflow,ubuntu,vscode,windows,&perline=11" />
   </a>
 </p>
 
