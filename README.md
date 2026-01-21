@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=Привет!+Меня+зовут+Григорий!&size=25&center=true" alt="Привет! Меня зовут Григорий!" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=1+проект+в+неделю&size=25&center=true" alt="Привет! Меня зовут Григорий!" />
-</p>
-
 
 ### Обо мне:
 
